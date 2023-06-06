@@ -1,0 +1,3 @@
+#!/home/johncom/JuneSixthPractice/venv/bin/python3
+from Cheetah.CheetahWrapper import _cheetah
+_cheetah()

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libMyComponents_HelloWorld.a CMakeFiles/MyComponents_HelloWorld.dir/__/__/fprime/cmake/empty.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libMyComponents_HelloWorld.a

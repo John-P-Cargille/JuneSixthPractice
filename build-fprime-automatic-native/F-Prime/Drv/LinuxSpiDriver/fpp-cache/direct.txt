@@ -1,0 +1,5 @@
+/home/johncom/JuneSixthPractice/fprime/Drv/LinuxSpiDriver/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Drv/LinuxSpiDriver/Telemetry.fppi
+/home/johncom/JuneSixthPractice/fprime/Drv/SpiDriverPorts/SpiDriverPorts.fpp
+/home/johncom/JuneSixthPractice/fprime/Fw/Log/Log.fpp
+/home/johncom/JuneSixthPractice/fprime/Fw/Tlm/Tlm.fpp

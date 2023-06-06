@@ -1,0 +1,2 @@
+/home/johncom/JuneSixthPractice/fprime/Svc/ComLogger/Commands.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/ComLogger/Events.fppi

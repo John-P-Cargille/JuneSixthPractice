@@ -1,0 +1,2 @@
+/home/johncom/JuneSixthPractice/fprime/Fw/Time/Time.fpp
+/home/johncom/JuneSixthPractice/fprime/config/FpConfig.fpp

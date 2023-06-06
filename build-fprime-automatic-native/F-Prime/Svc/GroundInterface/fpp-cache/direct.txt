@@ -1,0 +1,5 @@
+/home/johncom/JuneSixthPractice/fprime/Fw/Buffer/Buffer.fpp
+/home/johncom/JuneSixthPractice/fprime/Fw/Com/Com.fpp
+/home/johncom/JuneSixthPractice/fprime/Fw/Log/Log.fpp
+/home/johncom/JuneSixthPractice/fprime/Svc/GroundInterface/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/Sched/Sched.fpp

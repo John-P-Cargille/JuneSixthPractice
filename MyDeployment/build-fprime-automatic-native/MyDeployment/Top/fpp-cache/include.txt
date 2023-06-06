@@ -1,0 +1,15 @@
+/home/johncom/JuneSixthPractice/fprime/Drv/BlockDriver/Tlm.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/AssertFatalAdapter/AssertFatalEvents.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/BufferManager/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/BufferManager/Telemetry.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/CmdSequencer/Commands.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/CmdSequencer/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/CmdSequencer/Telemetry.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileDownlink/Commands.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileDownlink/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileDownlink/Telemetry.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileManager/Commands.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileManager/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileManager/Telemetry.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileUplink/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileUplink/Telemetry.fppi

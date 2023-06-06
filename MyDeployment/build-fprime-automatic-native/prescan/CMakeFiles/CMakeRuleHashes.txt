@@ -1,0 +1,17 @@
+# Hashes of file build rules.
+376ef71026b98ce4a57bd87412aeb89f /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/arrays/array_cpp.py
+a985ec98d19682c07dd7ba63c8fbdbd8 /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/channels/ChannelBody.py
+87662e55fa9c6a6d16ee91bcd5cd73d9 /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/commands/CommandBody.py
+b87eda341cffb811be19a14748331365 /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/component/cpp.py
+509e6ad7634ed13104399e53d7b7101e /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/enums/enum_cpp.py
+3ae0140009780df67520472f0844a9b3 /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/events/EventBody.py
+a3f30b99596de2711533c260bfba52df /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/gtest/cpp.py
+a3fd950a7cb3a170cec1beb66790f57d /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/html/HtmlChannelTablePage.py
+4da7a80d1deb378888b2a95b9df63184 /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/impl/cpp.py
+e9a0c8e2233b50ed0ea120400ba2c489 /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/md/MdChannelTablePage.py
+d603988aac961e81464194f6004594d8 /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/port/finishPortCpp.py
+e47823dfae52c109b3209900b90839a3 /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/serialize/finishSerialCpp.py
+2097382638f7af53ce7e0c9315616fe8 /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/test/cpp.py
+9a467c401185fa70f846b4e51d134931 /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/test_impl/cpp.py
+655190ab0e24a7c10918050ba053e3b4 /home/johncom/JuneSixthPractice/fprime/Autocoders/Python/src/fprime_ac/generators/templates/topology/includes1TopologyCpp.py
+42cc97b6111380caa3a7cfde8a3b2685 F-Prime/Autocoders/Python/src/fprime_ac/generators/templates/CMakeFiles/codegen

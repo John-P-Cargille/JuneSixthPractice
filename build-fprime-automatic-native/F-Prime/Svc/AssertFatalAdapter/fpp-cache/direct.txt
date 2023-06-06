@@ -1,0 +1,2 @@
+/home/johncom/JuneSixthPractice/fprime/Fw/Log/Log.fpp
+/home/johncom/JuneSixthPractice/fprime/Svc/AssertFatalAdapter/AssertFatalEvents.fppi

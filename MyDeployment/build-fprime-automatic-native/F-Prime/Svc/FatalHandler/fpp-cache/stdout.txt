@@ -1,0 +1,2 @@
+/home/johncom/JuneSixthPractice/fprime/Svc/Fatal/Fatal.fpp
+/home/johncom/JuneSixthPractice/fprime/config/FpConfig.fpp

@@ -1,0 +1,2 @@
+/home/johncom/JuneSixthPractice/fprime/Drv/LinuxUartDriver/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Drv/LinuxUartDriver/Telemetry.fppi

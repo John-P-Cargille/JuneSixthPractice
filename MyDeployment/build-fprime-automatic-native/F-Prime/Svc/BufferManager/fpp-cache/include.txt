@@ -1,0 +1,2 @@
+/home/johncom/JuneSixthPractice/fprime/Svc/BufferManager/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/BufferManager/Telemetry.fppi

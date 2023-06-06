@@ -1,0 +1,7 @@
+/home/johncom/JuneSixthPractice/fprime/Fw/Cmd/Cmd.fpp
+/home/johncom/JuneSixthPractice/fprime/Fw/Log/Log.fpp
+/home/johncom/JuneSixthPractice/fprime/Fw/Tlm/Tlm.fpp
+/home/johncom/JuneSixthPractice/fprime/Svc/FileManager/Commands.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileManager/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileManager/Telemetry.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/Ping/Ping.fpp

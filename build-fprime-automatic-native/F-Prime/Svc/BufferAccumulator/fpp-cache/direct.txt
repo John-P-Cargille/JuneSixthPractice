@@ -1,0 +1,8 @@
+/home/johncom/JuneSixthPractice/fprime/Fw/Buffer/Buffer.fpp
+/home/johncom/JuneSixthPractice/fprime/Fw/Cmd/Cmd.fpp
+/home/johncom/JuneSixthPractice/fprime/Fw/Log/Log.fpp
+/home/johncom/JuneSixthPractice/fprime/Fw/Tlm/Tlm.fpp
+/home/johncom/JuneSixthPractice/fprime/Svc/BufferAccumulator/Commands.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/BufferAccumulator/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/BufferAccumulator/Telemetry.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/Ping/Ping.fpp

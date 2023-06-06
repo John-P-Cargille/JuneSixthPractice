@@ -1,0 +1,2 @@
+/home/johncom/JuneSixthPractice/fprime/Svc/FileUplink/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileUplink/Telemetry.fppi

@@ -1,0 +1,3 @@
+/home/johncom/JuneSixthPractice/fprime/Svc/FileManager/Commands.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileManager/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/FileManager/Telemetry.fppi

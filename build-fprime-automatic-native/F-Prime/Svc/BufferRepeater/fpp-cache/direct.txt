@@ -1,0 +1,3 @@
+/home/johncom/JuneSixthPractice/fprime/Fw/Buffer/Buffer.fpp
+/home/johncom/JuneSixthPractice/fprime/Fw/Log/Log.fpp
+/home/johncom/JuneSixthPractice/fprime/config/AcConstants.fpp

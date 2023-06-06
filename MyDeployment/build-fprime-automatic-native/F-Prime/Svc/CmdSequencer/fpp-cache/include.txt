@@ -1,0 +1,3 @@
+/home/johncom/JuneSixthPractice/fprime/Svc/CmdSequencer/Commands.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/CmdSequencer/Events.fppi
+/home/johncom/JuneSixthPractice/fprime/Svc/CmdSequencer/Telemetry.fppi
