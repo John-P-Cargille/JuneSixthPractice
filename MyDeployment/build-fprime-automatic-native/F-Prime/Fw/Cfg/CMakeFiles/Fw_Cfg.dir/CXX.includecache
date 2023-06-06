@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/johncom/JuneSixthPractice/fprime/Fw/Cfg/ConfigCheck.cpp
+FpConfig.hpp
+-
+
+/home/johncom/JuneSixthPractice/fprime/Fw/Types/BasicTypes.h
+PlatformTypes.h
+-
+
+/home/johncom/JuneSixthPractice/fprime/Fw/Types/BasicTypes.hpp
+limits
+-
+BasicTypes.h
+/home/johncom/JuneSixthPractice/fprime/Fw/Types/BasicTypes.h
+
+/home/johncom/JuneSixthPractice/fprime/cmake/platform/types/PlatformTypes.h
+inttypes.h
+-
+stdint.h
+-
+
+/home/johncom/JuneSixthPractice/fprime/config/FpConfig.h
+Fw/Types/BasicTypes.h
+-
+
+/home/johncom/JuneSixthPractice/fprime/config/FpConfig.hpp
+Fw/Types/BasicTypes.hpp
+-
+FpConfig.h
+-
+
